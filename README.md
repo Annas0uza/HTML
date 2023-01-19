@@ -1,2 +1,2 @@
-# HTML-e-CSS
-HTML e CSS da Alura;
+# HTML
+Estudando HTML fraco capenga ruim feio
