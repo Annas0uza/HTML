@@ -1,0 +1,9 @@
+<HTML>
+<head>
+    <tile>Quebra de linhas</tile>
+</head>
+<body>
+    <p>Quando o código HTML não informa ao navegador onde deve ocorrer a quebra de linha</p>
+    <p>O usuário verá o conteúdo de acordo com o tamanho da janela</p>
+</body>
+</HTML>
